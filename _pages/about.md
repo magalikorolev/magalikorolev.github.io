@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-
+[meme](/images/meme.png){: .align-right width="300px"}
 👩‍🎓 I am a Master Student at École Normale Supérieure in Paris
 
 ⚛️ I am majoring in Quantum Physics
