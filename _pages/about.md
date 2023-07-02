@@ -15,4 +15,4 @@ redirect_from:
 
 🌞 I am currently working on the characterisation of universal properties in special models of random graphs at the National University of Singapore as a part of my curriculum
 
-🌈 In addition to my passion for sciences and physics, I enjoy drawing and painting, with traditional and digital media, [see some of my art here](https://www.instagram.com/iromagz/)https://www.instagram.com/iromagz/).
+🌈 In addition to my passion for sciences and physics, I enjoy drawing and painting, with traditional and digital media, [see some of my art here](https://www.instagram.com/iromagz/).
