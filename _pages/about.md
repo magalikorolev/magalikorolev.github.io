@@ -13,6 +13,6 @@ redirect_from:
 
 ⚛️ I am majoring in Quantum Physics
 
-🌞 I am currently working on the characterisation of universal properties in special models of random graphs at the National University of Singapore as a part of my curriculum
+🌞 I am currently working on charge fractionalization in quantum wires at the Centre de Physique Théorique, École Polytechnique under the direction of Karyn Le Hur
 
 🌈 In addition to my passion for sciences and physics, I enjoy drawing and painting with traditional and digital media, [see some of my art here](https://www.instagram.com/iromagz/).
